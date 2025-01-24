@@ -3,3 +3,8 @@
 
 cd ~         
 ls -l
+
+## Exercise 2
+
+cd ~         
+ls -l
