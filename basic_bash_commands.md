@@ -1,30 +1,30 @@
-**Exercise 1**
+**Exercise 1**:
 ```bash
 cd ~         
 ls -l
 ```
-**Exercise 2**.
+**Exercise 2**:
 ```bash
 sudo ls -lhS /var/log | sort -h
 ```
-**Exercise 3**.
+**Exercise 3**:
 ```bash
 nano ozan.txt
 ```
-**Exercise 4**.
+**Exercise 4**:
 ```bash
-echo "CINAR" > ekingen.txt
+echo "CINAR" > cinar.txt
 ```
-**Exercise 5**.
+**Exercise 5**:
 ```bash
 cat ozan.txt     
 cat cinar.txt  
 ```
-**Exercise 6**.
+**Exercise 6**:
 ```bash
 cat cinar.txt >> ozan.txt
 ```
-**Exercise 7**.
+**Exercise 7**:
 ```bash
 ls -d */ > folders_list.txt
 ```
